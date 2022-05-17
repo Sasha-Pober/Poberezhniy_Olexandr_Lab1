@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\bin\Debug\Lab_1.exe.config
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\bin\Debug\Lab_1.exe
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\bin\Debug\Lab_1.pdb
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\obj\Debug\Lab_1.exe
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\obj\Debug\Lab_1.pdb
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Documents\kpi\Projects\Programming\Lab_1\obj\Debug\Lab_1.csproj.CopyComplete
